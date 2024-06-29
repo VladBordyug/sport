@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+
+p{
+    border-radius: 1px solid black;
+}
+h1{
+    text-align: center;
+}
+.jjj{
+    text-align: center;
+    font-size: 25px;
+    border-bottom: 5px solid black;
+}
+.jjjj{
+    border: 2px solid black;
+    border-radius: 2px;
+}
+.jjjjj{
+    border-left: 5px dotted black;
+}
